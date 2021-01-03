@@ -1,2 +1,0 @@
-# javieratencio-web
-Sitio web
